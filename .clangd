@@ -1,0 +1,27 @@
+---
+CompileFlags:
+  Add:
+    - "-I/usr/include"
+    - "-I/usr/include/eigen3"
+    - "-I/usr/local/include"
+    - "-I/home/winston/projects/slam_try"
+    - "-I/home/winston/projects/slam_try/include/CameraModels"
+    - "-I/home/winston/projects/slam_try/include"
+    - "-I/home/winston/projects/slam_try/Thirdparty/Sophus"
+
+    - "-I/home/winston/projects/Pangolin/components/tinyobj/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_packetstream/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_windowing/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_plot/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_scene/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_glgeometry/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_tools/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_image/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_python/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_python/pybind11/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_display/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_core/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_vars/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_video/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_geometry/include"
+    - "-I/home/winston/projects/Pangolin/components/pango_opengl/include"
